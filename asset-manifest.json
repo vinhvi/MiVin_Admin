@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MiVin_Admin/static/css/main.1cf03476.css",
+    "main.js": "/MiVin_Admin/static/js/main.bbafaf1e.js",
+    "static/media/logo.png": "/MiVin_Admin/static/media/logo.acdb74d8d5aabbbca821.png",
+    "index.html": "/MiVin_Admin/index.html",
+    "main.1cf03476.css.map": "/MiVin_Admin/static/css/main.1cf03476.css.map",
+    "main.bbafaf1e.js.map": "/MiVin_Admin/static/js/main.bbafaf1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf03476.css",
+    "static/js/main.bbafaf1e.js"
+  ]
+}
