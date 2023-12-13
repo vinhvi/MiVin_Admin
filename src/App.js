@@ -25,7 +25,7 @@ import CreateEm from "./Screens/Create/Create";
 
 function Router() {
   return (
-    <Routes basename="/DoAnTotNghiep">
+    <Routes basename="/MiVin-Admin">
       <Route path="/DashBoard" element={<DashBoard />} />
       <Route path="/Product" element={<Product />} />
       <Route path="/ImportOrder" element={<ImportOrder />} />
